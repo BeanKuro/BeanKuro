@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BeanKuro&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![KuroBean's github stats](https://github-readme-stats.vercel.app/api?username=BeanKuro&show_icons=true)
 [![KuroBean's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BeanKuro&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 <!--
