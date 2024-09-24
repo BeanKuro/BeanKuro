@@ -9,12 +9,15 @@ Step into the future of game development, where I bring immersive worlds to life
 ![KuroBean's github stats](https://github-readme-stats.vercel.app/api?username=BeanKuro&show_icons=true&theme=radical&hide_border=true&bg_color=0,0f0c29,302b63,24243e)
 [![KuroBean's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeanKuro&show_icons=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&layout=compact&bg_color=0,0f0c29,302b63,24243e)](https://github.com/BeanKuro)
 
-### 🛠️ **Tech Stack:**
+### 🛠️ **Tech Stack Interested or Available:**
 
 - 🎮 **Game Engines**: Unreal Engine, Unity  
 - 💻 **Languages**: C, C++, Java, Python, HTML, JavaScript  
 - 🧠 **Focus Areas**: Game development, AI in games, VR/AR  
-- 🔧 **Other Skills**: Full-stack development, Automation
+- 🔧 **Other Skills**:
+    !Full-stack development
+    !Automation
+    !Create Discord Bot
 
 ---
 
