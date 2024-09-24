@@ -15,9 +15,9 @@ Step into the future of game development, where I bring immersive worlds to life
 - 💻 **Languages**: C, C++, Java, Python, HTML, JavaScript  
 - 🧠 **Focus Areas**: Game development, AI in games, VR/AR  
 - 🔧 **Other Skills**:
-    !Full-stack development
-    !Automation
-    !Create Discord Bot
+    - Full-stack development
+    - Automation
+    - Create Discord Bot
 
 ---
 
